@@ -63,7 +63,7 @@ public class benz extends JFrame {
 		
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		Image img2 = new ImageIcon(this.getClass().getResource("/B.jpg")).getImage();
+		Image img2 = new ImageIcon(this.getClass().getResource("/B.png")).getImage();
 		lblNewLabel_1.setIcon(new ImageIcon(img2));
 		lblNewLabel_1.setBounds(57, 341, 189, 88);
 		contentPane.add(lblNewLabel_1);
